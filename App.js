@@ -5,7 +5,7 @@ export default function App() {
   return (
     <ScrollView>
       <View style={styles.container}>
-        <Text style={styles.tituloPrincipal}>Principais tecnologias mobile</Text>
+        <Text style={styles.tituloPrincipal}>Principais tecnologias Mobile</Text>
         <Text style={styles.titulo}>
           Flutter
         </Text>
